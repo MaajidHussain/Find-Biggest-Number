@@ -4,5 +4,5 @@ def find_big_number(simpleArray):
         if simpleArray[i] > biggestNumber:
             biggestNumber=simpleArray[i]
     print(biggestNumber)
-simpleArray=[5,3,3,3,3,3,3,4]
+simpleArray=[63,32,59,68,100,121,54,78]
 find_big_number(simpleArray)
